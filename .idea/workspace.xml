@@ -23,16 +23,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reduxstagram.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="reduxstagram.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../learn-redux/client/reduxstagram.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            <state relative-caret-position="210">
+              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
                 <element signature="e#140#177#0" expanded="true" />
-                <element signature="e#297#370#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posts.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../learn-redux/client/reducers/posts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -73,6 +81,7 @@
         <option value="$PROJECT_DIR$/learn-redux/.babelrc" />
         <option value="$PROJECT_DIR$/../learn-redux/client/reducers/index.js" />
         <option value="$PROJECT_DIR$/../learn-redux/client/reduxstagram.js" />
+        <option value="$PROJECT_DIR$/../learn-redux/client/reducers/posts.js" />
       </list>
     </option>
   </component>
@@ -139,6 +148,13 @@
               <item name="Learn-Redux-Starter-Files" type="462c0819:PsiDirectoryNode" />
               <item name="learn-redux" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn-Redux-Starter-Files" type="462c0819:PsiDirectoryNode" />
+              <item name="learn-redux" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
               <item name="reducers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -197,18 +213,18 @@
       <option name="presentableId" value="Default" />
       <updated>1528484175393</updated>
       <workItem from="1528484177207" duration="6492000" />
-      <workItem from="1528490903928" duration="1502000" />
+      <workItem from="1528490903928" duration="1776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7994000" />
+    <option name="totallyTimeSpent" value="8268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="25" width="1920" height="1004" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14654718" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -261,13 +277,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../learn-redux/client/reducers/posts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../learn-redux/client/reducers/comments.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -317,7 +326,6 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
             <element signature="e#140#177#0" expanded="true" />
-            <element signature="e#297#370#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -369,13 +377,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../learn-redux/client/reduxstagram.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="210">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
             <element signature="e#140#177#0" expanded="true" />
-            <element signature="e#297#370#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-redux/client/reducers/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
         </state>
       </provider>
     </entry>
