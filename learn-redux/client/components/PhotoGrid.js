@@ -1,11 +1,13 @@
 import React from 'react';
 
-const PhotoGrid = () => {
+const PhotoGrid = React.createClass({
+  render() {
     return (
-        <div>
-            i'm the photogrid
-        </div>
-    );
-};
+      <div className="photo-grid">
+      I'm the photo grid
+      </div>
+    )
+  }
+});
 
 export default PhotoGrid;

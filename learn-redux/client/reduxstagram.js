@@ -1,25 +1,29 @@
 import React from "react";
+
 import { render } from "react-dom";
 
-//import css
-import css from './styles/style.styl'
+// Import css
+import css from "./styles/style.styl";
 
-//impot component
-import Main from './components/Main'
-import Single from './components/Single'
-import PhotoGrid from './components/PhotoGrid'
+// Import Components
+import Main from "./components/Main";
+import Single from "./components/Single";
+import PhotoGrid from "./components/PhotoGrid";
 
-import {Router, Route, IndexRoute, browserHistory} from "react-router"
+// import react router deps
+import { Router, Route, IndexRoute, browserHistory } from "react-router";
+import { Provider } from "react-redux";
+import store, { history } from "./store";
 
 const router = (
-    <Router history={browserHistory}>
-        <Route path="/" component={Main}>
-            <IndexRoute component={PhotoGrid}></IndexRoute>
-            <Route path="/view/:postId" component={Single}></Route>
-        </Route>
-
+  <Provider store={store}>
+    <Router history={history}>
+      <Route path="/" component={Main}>
+        <IndexRoute component={PhotoGrid} />
+        <Route path="/view/:postId" component={Single} />
+      </Route>
     </Router>
-)
+  </Provider>
+);
 
-render(router, document.getElementById('root'))
-
+render(router, document.getElementById("root"));
