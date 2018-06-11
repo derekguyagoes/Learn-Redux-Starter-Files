@@ -13,80 +13,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="actionCreators.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../learn-redux/client/actions/actionCreators.js">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../learn-redux/client/components/App.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-                  <folding>
-                    <element signature="e#0#40#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Photo.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/../learn-redux/client/components/Photo.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-                  <folding>
-                    <element signature="e#0#26#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="PhotoGrid.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../learn-redux/client/components/PhotoGrid.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-                  <folding>
-                    <element signature="e#0#26#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="reduxstagram.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../learn-redux/client/reduxstagram.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-                  <folding>
-                    <element signature="e#0#26#0" expanded="true" />
-                    <element signature="e#140#174#0" expanded="true" />
-                    <element signature="e#297#370#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="Main.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/../learn-redux/client/components/Main.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="17" selection-start-line="17" selection-end-line="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Single.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../learn-redux/client/components/Single.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comments.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../learn-redux/client/components/Comments.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Photo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../13/components/Photo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,11 +82,16 @@
         <option value="$PROJECT_DIR$/learn-redux/client/reduxstagram.js" />
         <option value="$PROJECT_DIR$/learn-redux/.babelrc" />
         <option value="$PROJECT_DIR$/../learn-redux/client/reducers/index.js" />
-        <option value="$PROJECT_DIR$/../learn-redux/client/reducers/posts.js" />
         <option value="$PROJECT_DIR$/../learn-redux/client/reduxstagram.js" />
         <option value="$PROJECT_DIR$/../learn-redux/client/components/app.js" />
         <option value="$PROJECT_DIR$/../learn-redux/client/components/PhotoGrid.js" />
         <option value="$PROJECT_DIR$/../learn-redux/client/components/Photo.js" />
+        <option value="$PROJECT_DIR$/../learn-redux/client/reducers/comments.js" />
+        <option value="$PROJECT_DIR$/../learn-redux/client/reducers/posts.js" />
+        <option value="$PROJECT_DIR$/../13/components/Photo.js" />
+        <option value="$PROJECT_DIR$/../learn-redux/client/components/comments.js" />
+        <option value="$PROJECT_DIR$/../learn-redux/client/components/Single.js" />
+        <option value="$PROJECT_DIR$/../learn-redux/client/components/Comments.js" />
       </list>
     </option>
   </component>
@@ -174,7 +140,13 @@
             <path>
               <item name="." type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn-Redux-Starter-Files" type="462c0819:PsiDirectoryNode" />
-              <item name="07" type="462c0819:PsiDirectoryNode" />
+              <item name="13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn-Redux-Starter-Files" type="462c0819:PsiDirectoryNode" />
+              <item name="13" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="." type="b2602c69:ProjectViewProjectNode" />
@@ -264,12 +236,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528484175393</updated>
       <workItem from="1528484177207" duration="6492000" />
-      <workItem from="1528490903928" duration="4208000" />
+      <workItem from="1528490903928" duration="9743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10700000" />
+    <option name="totallyTimeSpent" value="16235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="25" width="1920" height="1004" extended-state="6" />
@@ -325,16 +297,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../learn-redux/client/reducers/comments.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../learn-redux/client/components/Single.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -409,13 +371,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../learn-redux/client/reducers/posts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../learn-redux/client/components/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -438,9 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../learn-redux/client/actions/actionCreators.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../learn-redux/client/components/Main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -458,13 +410,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../learn-redux/client/components/Photo.js">
+    <entry file="file://$PROJECT_DIR$/../learn-redux/client/actions/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-redux/client/reducers/comments.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-redux/client/reducers/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../13/components/PhotoGrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-redux/client/components/Photo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../13/components/Photo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-redux/client/components/Single.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-redux/client/components/Comments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
